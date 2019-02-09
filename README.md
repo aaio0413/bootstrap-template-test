@@ -1,2 +1,0 @@
-# bootstrap-template-test
-test
